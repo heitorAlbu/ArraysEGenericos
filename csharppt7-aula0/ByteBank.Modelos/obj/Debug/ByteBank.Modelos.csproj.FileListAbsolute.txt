@@ -1,0 +1,6 @@
+C:\Users\gleybe.salazar\Desktop\csharppt7-aula0\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\gleybe.salazar\Desktop\csharppt7-aula0\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\gleybe.salazar\Desktop\csharppt7-aula0\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\gleybe.salazar\Desktop\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojResolveAssemblyReference.cache
+C:\Users\gleybe.salazar\Desktop\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\gleybe.salazar\Desktop\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
